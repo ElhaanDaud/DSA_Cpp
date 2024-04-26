@@ -50,7 +50,7 @@ int main() {
     }
 
     int maxValue = knapsack(capacity, items);
-    cout << "Maximum value in the knapsack: " << maxValue << endl;
+    cout << "Maximum value in the knapsack: " << maxValue << endl; //10 50 5 40 6 36 4 36 122
 
     return 0;
 }
