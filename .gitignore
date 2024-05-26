@@ -10,3 +10,5 @@ kruskal_algo.exe
 dijkstra_algo.exe
 bellmanford_algo.exe
 randomised_quicksort.exe
+bfs.exe
+dfs.exe
