@@ -5,3 +5,8 @@ mergesort.exe
 fractionalknapsack.exe
 01Knapsack.exe
 stack.exe
+prim_algo.exe
+kruskal_algo.exe
+dijkstra_algo.exe
+bellmanford_algo.exe
+randomised_quicksort.exe
