@@ -1,3 +1,5 @@
+//Write a program to show the working of 0/1 knapsack problem.
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
