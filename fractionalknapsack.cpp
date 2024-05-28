@@ -1,3 +1,5 @@
+//Write a program to show the working of fractional knapsack problem
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
