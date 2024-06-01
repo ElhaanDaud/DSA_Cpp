@@ -1,3 +1,5 @@
+//Write a program to find minimum spanning tree using kruskal's algorithm
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
