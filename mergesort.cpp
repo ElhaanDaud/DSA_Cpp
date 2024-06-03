@@ -1,3 +1,5 @@
+//Write a program to perform the analysis of merge sort.
+
 #include<iostream>
 #include<vector>
 
