@@ -1,3 +1,5 @@
+//Write a program to show the working of randomised quick sort.
+
 #include <iostream>
 #include <vector>
 #include <cstdlib>
